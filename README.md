@@ -1,2 +1,3 @@
 # ffmpeg-resource
-ffmpeg resource
+ffmpeg mac
+ffmpeg win
